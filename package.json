@@ -1,0 +1,14 @@
+{
+  "name": "tirapong",
+  "version": "1.0.0",
+  "description": "Test 0.0.1",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "tirapong",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
