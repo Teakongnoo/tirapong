@@ -1,6 +1,6 @@
 {
   "name": "tirapong",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Test 0.0.1",
   "main": "app.js",
   "scripts": {
@@ -10,5 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "test0.0.1"
+  },
+  "keywords": [
+    "line"
+  ]
 }
